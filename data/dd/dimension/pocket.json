@@ -1,0 +1,12 @@
+{
+  "type": "dd:pocket_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 133742,
+    "settings": "dd:pocket_noise",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "dd:pocket_cave"
+    }
+  }
+}
