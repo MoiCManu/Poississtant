@@ -39,7 +39,7 @@
     [],
     [],
     [],
-    ["minecraft:chorus_plant", "minecraft:glow_lichen"],
+    ["dd:chorus_patch", "dd:glow_lichen_patch"],
     [
       "dd:crying_obsidian_pillar"
     ],

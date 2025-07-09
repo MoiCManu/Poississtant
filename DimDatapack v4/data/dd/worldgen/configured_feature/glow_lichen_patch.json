@@ -10,13 +10,23 @@
           "to_place": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:glow_lichen"
+              "Name": "minecraft:glow_lichen",
+              "Properties": {
+                "north": "true"
+              }
             }
           }
         },
         "type": "minecraft:simple_block"
       },
-      "placement": []
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:matching_blocks",
+            "blocks": "minecraft:blackstone"
+          }
+        }
+      ]
     }
-  }
-}
+  }}
