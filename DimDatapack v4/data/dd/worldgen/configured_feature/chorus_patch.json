@@ -10,7 +10,7 @@
           "to_place": {
             "type": "minecraft:simple_state_provider",
             "state": {
-              "Name": "minecraft:chorus_flower"
+              "Name": "minecraft:pearlescent_froglight"
             }
           }
         },
@@ -25,5 +25,4 @@
           }
         }
       ]
-    }
-  }}
+    }  }}
