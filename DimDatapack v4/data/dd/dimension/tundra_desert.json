@@ -1,0 +1,16 @@
+{
+  "type": "dd:tundra_desert_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 12345,
+    "settings": "dd:tundra_desert_noise",
+    "biome_source": {
+      "type": "minecraft:checkerboard",
+      "scale": 8,
+      "biomes": [
+        "dd:frozen_tundra",
+        "dd:arid_desert"
+      ]
+    }
+  }
+}
