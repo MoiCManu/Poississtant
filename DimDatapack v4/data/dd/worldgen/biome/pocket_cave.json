@@ -26,9 +26,18 @@
       }
     }
   },
-  "carvers": {},
+  "carvers": { "air": [], "liquid": [] },
   "spawn_costs": {},
-  "spawners": {},
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": [],
+    "axolotls": [],
+    "underground_water_creature": []
+  },
   "features": [
     [],
     [],
