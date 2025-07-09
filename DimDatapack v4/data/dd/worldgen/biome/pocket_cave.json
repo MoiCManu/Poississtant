@@ -38,17 +38,12 @@
     [],
     [],
     [],
-    [
-      "minecraft:ore_ancient_debris_large"
-    ],
     [],
+    ["minecraft:chorus_plant", "minecraft:glow_lichen"],
     [
       "dd:crying_obsidian_pillar"
     ],
-    [
-      "dd:chorus_patch",
-      "dd:glow_lichen_patch"
-    ],
+    [],
     []
   ]
 }
