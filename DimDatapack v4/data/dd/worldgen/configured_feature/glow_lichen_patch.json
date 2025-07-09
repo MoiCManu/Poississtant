@@ -12,7 +12,12 @@
             "state": {
               "Name": "minecraft:glow_lichen",
               "Properties": {
-                "north": "true"
+                "north": "true",
+                "south": "true",
+                "east": "true",
+                "west": "true",
+                "up": "true",
+                "down": "true"
               }
             }
           }
@@ -28,5 +33,4 @@
           }
         }
       ]
-    }
-  }}
+    }  }}
