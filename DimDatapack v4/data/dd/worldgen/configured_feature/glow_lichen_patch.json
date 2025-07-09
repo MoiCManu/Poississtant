@@ -10,12 +10,7 @@
           "to_place": {
             "type": "minecraft:weighted_state_provider",
             "entries": [
-              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"north": "true"}}},
-              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"south": "true"}}},
-              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"east": "true"}}},
-              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"west": "true"}}},
-              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"up": "true"}}},
-              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"down": "true"}}}
+              {"weight": 1, "data": {"Name": "minecraft:glow_lichen", "Properties": {"up": "true"}}}
             ]
           }
         },
@@ -28,6 +23,7 @@
             "type": "minecraft:matching_blocks",
             "blocks": "minecraft:blackstone"
           }
-        }
-      ]
-    }  }}
+        }      ]
+    }
+  }
+}
