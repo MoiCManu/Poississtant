@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:overworld",
+  "category": "forest",
+  "temperature": 0.65,
+  "precipitation": "rain",
+  "downfall": 0.35,
+  "depth": 0.1,
+  "scale": 0.2,
+  "effects": {
+    "sky_color": 5914251,
+    "water_color": 9360632,
+    "water_fog_color": 7318221,
+    "fog_color": 5253216,
+    "foliage_color": 14200032,
+    "grass_color": 11060991
+  },
+  "carvers": { "air": [], "liquid": [] },
+  "features": [],
+  "spawn_costs": {},
+  "spawners": { "monster": [], "creature": [], "ambient": [], "water_creature": [], "water_ambient": [], "misc": [] }
+}

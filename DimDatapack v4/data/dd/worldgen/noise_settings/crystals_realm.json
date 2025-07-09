@@ -1,0 +1,21 @@
+{
+  "sea_level": 63,
+  "disable_mob_generation": false,
+  "legacy_random_source": false,
+  "default_block": { "Name": "minecraft:stone" },
+  "default_fluid": { "Name": "minecraft:water", "Properties": { "level": "0" } },
+  "noise": { "height": 384, "min_y": -64, "size_horizontal": 1.0, "size_vertical": 2.0 },
+  "noise_router": {
+    "continents": "minecraft:overworld/continents",
+    "erosion": "minecraft:overworld/erosion",
+    "depth": "minecraft:overworld/depth",
+    "ridges": "minecraft:overworld/ridges",
+    "weirdness": "minecraft:overworld/weirdness",
+    "final_density": {
+      "type": "minecraft:min",
+      "argument1": "minecraft:overworld/final_density",
+      "argument2": 0.5
+    }
+  },
+  "surface_rule": "minecraft:overworld/surface"
+}
