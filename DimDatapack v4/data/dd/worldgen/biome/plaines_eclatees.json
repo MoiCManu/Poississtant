@@ -1,11 +1,7 @@
 {
-  "type": "minecraft:overworld",
-  "category": "plains",
+  "has_precipitation": false,
   "temperature": 0.45,
-  "precipitation": "none",
   "downfall": 0.0,
-  "depth": 0.125,
-  "scale": 0.05,
   "effects": {
     "sky_color": 15263976,
     "water_color": 13691120,
@@ -17,5 +13,14 @@
   "carvers": { "air": [], "liquid": [] },
   "features": [],
   "spawn_costs": {},
-  "spawners": { "monster": [], "creature": [], "ambient": [], "water_creature": [], "water_ambient": [], "misc": [] }
+  "spawners": {
+    "monster": [],
+    "creature": [],
+    "ambient": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": [],
+    "axolotls": [],
+    "underground_water_creature": []
+  }
 }
