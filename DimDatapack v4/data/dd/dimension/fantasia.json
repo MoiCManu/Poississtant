@@ -1,11 +1,12 @@
 {
-  "type": "dd:fairy_isles",
+  "type": "dd:fantasia",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "dd:fairy_isles",
+    "seed": 123456789,
+    "settings": "dd:fantasia",
     "biome_source": {
       "type": "minecraft:fixed",
-      "biome": "dd:fairy_isles"
+      "biome": "minecraft:forest"
     }
   }
 }
