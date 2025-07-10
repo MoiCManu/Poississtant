@@ -15,16 +15,15 @@
     "size_vertical": 2
   },
 
-  "noise_router": {
-    "barrier": 0,
-    "continentalness": 0,
-    "erosion": 0,
-    "depth": 0,
-    "ridges": 0,
+    "noise_router": {
+      "barrier": 0,
+      "continents": 0,
+      "erosion": 0,
+      "depth": 0,
+      "ridges": 0,
 
-    "temperature": 0,
-    "humidity": 0,
-    "vegetation": 0,
+      "temperature": 0,
+      "vegetation": 0,
 
     "vein_toggle": 0,
     "vein_ridged": 0,
