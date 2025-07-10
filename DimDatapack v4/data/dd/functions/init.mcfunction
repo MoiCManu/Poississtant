@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"[Voyager vers les Îles Féeriques]","color":"light_purple","bold":true,"clickEvent":{"action":"run_command","value":"/execute at @s in dd:fairy_isles run tp @s ~ ~ ~"},"hoverEvent":{"action":"show_text","value":{"text":"Clique ici pour te téléporter !","color":"aqua"}}}]
