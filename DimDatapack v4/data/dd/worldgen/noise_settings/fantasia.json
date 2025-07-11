@@ -12,7 +12,7 @@
   "legacy_random_source": false,
   "noise": {
     "min_y": 0,
-    "height": 160,
+    "height": 320,
     "size_horizontal": 1,
     "size_vertical": 1
   },
@@ -26,11 +26,11 @@
     "vein_gap": 0,
     "temperature": 0.8,
     "vegetation": 1,
-    "continents": 1.5,
-    "erosion": 2,
-    "depth": 0,
-    "ridges": 4,
-    "initial_density_without_jaggedness": 2,
+    "continents": "minecraft:overworld/continents",
+    "erosion": "minecraft:overworld/erosion",
+    "depth": "minecraft:overworld/depth",
+    "ridges": "minecraft:overworld/ridges",
+    "initial_density_without_jaggedness": "minecraft:end/base_3d_noise",
     "final_density": "minecraft:end/base_3d_noise"
   },
   "spawn_target": [],

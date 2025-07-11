@@ -1,0 +1,11 @@
+{
+  "type": "dd:flesh",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "dd:flesh",
+    "biome_source": {
+      "type": "minecraft:fixed",
+      "biome": "dd:flesh"
+    }
+  }
+}
